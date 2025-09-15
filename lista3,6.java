@@ -10,8 +10,8 @@ public class teste1 {
     	System.out.print("Digite um número: ");
         int n = scanner.nextInt();
         double d = n;
-        System.out.println("Divisão inteira: " + (5 / 2));
-        System.out.println("Divisão double: " + (5 / 2.0));
+        System.out.println((5 / 2));
+        System.out.println((5 / 2.0));
     	  
     	    }
     	}
